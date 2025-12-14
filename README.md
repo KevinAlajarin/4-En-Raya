@@ -59,12 +59,13 @@ Derrota: -15 puntos
 Empate: Solo se resta por turnos jugados
 
 Comandos Especiales
-text
-# Easter egg (selección de ficha)
-Ingrese "creador" para desbloquear ficha secreta: ¢
+
+# Easter egg (selección de ficha)        
+Ingrese "creador" para desbloquear ficha secreta: ¢       
+
 📁 Estructura del Código
+```text
 Funciones Principales
-text
 crearmatriz()          # Crea tablero 8x8
 interfazdejuego()      # Muestra reglas e interfaz
 eleccion()             # Selección de fichas
@@ -80,3 +81,4 @@ dic            # Mapeo columnas A-H → índices 0-7
 f1, f2         # Fichas de jugadores
 jugadas_filas  # Control de columnas llenas
 turnos1, turnos2 # Contador de turnos
+```

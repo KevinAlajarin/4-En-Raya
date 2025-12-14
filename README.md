@@ -63,9 +63,10 @@ Comandos Especiales
 # Easter egg (selección de ficha)        
 Ingrese "creador" para desbloquear ficha secreta: ¢       
 
-📁 Estructura del Código
-```text
+📁 Estructura del Código     
+
 Funciones Principales
+```text
 crearmatriz()          # Crea tablero 8x8
 interfazdejuego()      # Muestra reglas e interfaz
 eleccion()             # Selección de fichas
@@ -74,7 +75,9 @@ llenarmatriz()         # Coloca fichas en tablero
 checker()              # Verifica condiciones de victoria
 puntajes()             # Calcula sistema de puntos
 empatar()              # Detecta empates
+```
 Variables Clave
+```text
 python
 matrizvacia    # Tablero de juego
 dic            # Mapeo columnas A-H → índices 0-7

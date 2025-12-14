@@ -24,7 +24,7 @@ Terminal/consola que soporte caracteres especiales
 Ejecución
 bash
 # Clonar repositorio
-git clone https://github.com/usuario/4-en-raya.git
+git clone https://github.com/KevinAlajarin/4-En-Raya.git
 
 # Navegar al directorio
 cd 4-en-raya
